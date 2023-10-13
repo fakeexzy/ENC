@@ -3,11 +3,15 @@ const fs = require('fs')
 // Api
 global.APIs = {
 	alfa: 'https://api.zeeoneofc.my.id',
+	mitfa: 'https://api.miftahganzz.my.id',
+	biz: 'https://api.azz.biz.id',
 }
 
 // Apikey
 global.APIKeys = {
 	'https://api.zeeoneofc.my.id': 'Your Key',
+	'https://api.miftahganzz.my.id': 'free',
+	'https://api.azz.biz.id': 'pelanpelanpaksupir',
 }
 
 global.namabot = "Bot"
